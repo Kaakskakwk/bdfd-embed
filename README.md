@@ -1,5 +1,1 @@
-# bdfd-embed
-$title[title message]
-$description[mesage]
-$footer[message]
-$author[(optional) message]
+please read The TOS for BDFD https://botdesignerdiscord.com/tos if done you can do code now :D
