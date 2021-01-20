@@ -12,3 +12,11 @@ $footerIcon
 $authorAvatar
 
 for example = $footerIcon[$authorAvatar] or $authorIcon[$authorAvatar]
+
+color
+
+$color[hex color]
+
+want random color huh?
+
+you can use $color[$randomText] or $color[$random] wanna know more about these? come to the official server of bdfd! https://discord.gg/bot
